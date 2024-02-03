@@ -197,9 +197,9 @@ html {
 
 .experience {
     display: flex;
-    gap: 20rem;
-justify-content: center;
-    align-items: center;
+    gap: 40rem;
+    justify-content: center;
+    padding: 8rem 0;
 }
 .eye-icon{
     width: 5rem;
@@ -208,7 +208,11 @@ justify-content: center;
 .experience-text {
     display: flex;
     flex-direction: column;
-    align-items: center;
+}
+.experience-flex {
+    display: flex;
+   justify-content: center;
+  gap: 4rem;
 }
 .section-services {
     background-color:  #161615;
