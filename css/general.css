@@ -79,12 +79,27 @@ color: #ffffff8a;
 color: #00000065;
   margin-bottom: 3rem;
 }
+.dark{
+  color: #000;
+  font-weight: 600;
+  margin-bottom: .5rem;
+  font-size: 1.7rem;
+  line-height: 1.7;
+}
+.gray{
+  color: #777;
+  margin-top: 0;
+}
 .heading-secondary{
   color: #000;
   font-size: 6.8rem;
   font-weight: 700;
   line-height: 1.2;
 margin-bottom: 4rem;
+}
+.align-text{
+  text-align: center;
+  font-size: 8rem;
 }
 .heading-tertiary{
   color: #000;
@@ -94,10 +109,11 @@ margin-bottom: 4rem;
 margin-bottom: 1rem;
 }
 .heading-tertiary-4{
-  color: #555;
-  font-size: 1.4rem;
-  font-weight: 700;
-  line-height: 1.2;
+  color: #777;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6;
+  text-transform: capitalize;
 margin-bottom: 2rem;
 }
 .heading-tertiary-2{
@@ -114,6 +130,7 @@ margin-bottom: 2.5rem;
   line-height: 1.2;
 margin-bottom: 2.5rem;
 }
+
 .heading-secondary-2{
   color: #fdf2e9;
   font-size: 6.8rem;
