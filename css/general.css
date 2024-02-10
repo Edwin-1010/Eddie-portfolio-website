@@ -10,17 +10,16 @@
   transition: all 0.3s;
 }
 .btn:hover,
-.btn:after{
+.btn:after {
   background-color: #ffff0065;
 }
-.heading-primary{
+.heading-primary {
   color: #fff;
   font-size: 8.3rem;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.2;
-
 }
-.paragraph{
+.paragraph {
   font-size: 2.7rem;
   font-weight: 300;
   line-height: 1.6;
@@ -28,8 +27,8 @@
   width: 80%;
   margin-bottom: 4rem;
 }
-.heading-primary-span{
-  margin: 0  0 5rem 5rem ;
+.heading-primary-span {
+  margin: 0 0 5rem 5rem;
   color: #fff;
   font-size: 8.3rem;
   font-weight: 600;
@@ -47,99 +46,99 @@
   transition: all 0.3s;
 }
 .btn-2:hover,
-.btn-2:after{
-  background-color:  #ffff0067;
+.btn-2:after {
+  background-color: #ffff0067;
 }
 
-.line{
+.line {
   border-left: 2px solid #333;
   height: 4rem;
   display: block;
-  margin:0 2rem;
+  margin: 0 2rem;
   width: 1px;
 }
-.paragraph-2{
+.paragraph-2 {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.6;
   color: #000;
   margin-bottom: 9rem;
 }
-.paragraph-3{
+.paragraph-3 {
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.6;
-color: #ffffff8a;
+  color: #ffffff8a;
   margin-bottom: 3rem;
 }
-.paragraph-4{
+.paragraph-4 {
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.6;
-color: #00000065;
+  color: #00000065;
   margin-bottom: 3rem;
 }
-.dark{
+.dark {
   color: #000;
   font-weight: 600;
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
   font-size: 1.7rem;
   line-height: 1.7;
 }
-.gray{
+.gray {
   color: #777;
   margin-top: 0;
 }
-.heading-secondary{
+.heading-secondary {
   color: #000;
   font-size: 6.8rem;
   font-weight: 700;
   line-height: 1.2;
-margin-bottom: 4rem;
+  margin-bottom: 4rem;
 }
-.align-text{
+.align-text {
   padding: 2rem 2rem;
   text-align: center;
   font-size: 8rem;
 }
-.heading-tertiary{
+.heading-tertiary {
   color: #000;
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 1.2;
-margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
-.heading-tertiary-4{
+.heading-tertiary-4 {
   color: #777;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.6;
   text-transform: capitalize;
-margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
-.heading-tertiary-2{
-  color:#fdf2e9 ;
+.heading-tertiary-2 {
+  color: #fdf2e9;
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 1.2;
-margin-bottom: 2.5rem;
+  margin-bottom: 2.5rem;
 }
-.heading-tertiary-3{
-  color: #000 ;
+.heading-tertiary-3 {
+  color: #000;
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 1.2;
-margin-bottom: 2.5rem;
+  margin-bottom: 2.5rem;
 }
 
-.heading-secondary-2{
+.heading-secondary-2 {
   color: #fdf2e9;
   font-size: 6.8rem;
   font-weight: 700;
   line-height: 1.4;
-text-align: center;
-margin-bottom: 4.5rem;
+  text-align: center;
+  margin-bottom: 4.5rem;
 }
-.size{
+.size {
   font-size: 6.3rem;
 }
