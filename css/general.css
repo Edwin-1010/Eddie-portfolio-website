@@ -98,6 +98,7 @@ color: #00000065;
 margin-bottom: 4rem;
 }
 .align-text{
+  padding: 2rem 2rem;
   text-align: center;
   font-size: 8rem;
 }
@@ -135,7 +136,10 @@ margin-bottom: 2.5rem;
   color: #fdf2e9;
   font-size: 6.8rem;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.4;
 text-align: center;
 margin-bottom: 4.5rem;
+}
+.size{
+  font-size: 6.3rem;
 }
